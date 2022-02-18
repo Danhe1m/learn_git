@@ -1,2 +1,2 @@
 new text
-changed HERE text with conflict
+changed HERE text with conflict again
