@@ -1,2 +1,6 @@
 new text
+<<<<<<< HEAD
 changed text with conflict HERE
+=======
+changed HERE text with conflict
+>>>>>>> develop
